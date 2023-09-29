@@ -1,0 +1,12 @@
+name: "SBG Utils"
+main: "ch.goldensbg.sbgutils.Main"
+version: "1.0.0"
+
+author: "GoldenSBG"
+description: "Dies ist ein Tutorial Project!"
+website: "https://goldensbg.000.pe"
+
+libraries:
+  - "ch.goldensbg:kpaper:1.1.0"
+  - "dev.jorel:commandapi-bukkit-shade:9.1.0"
+  - "dev.jorel:commandapi-bukkit-kotlin:9.1.0"
